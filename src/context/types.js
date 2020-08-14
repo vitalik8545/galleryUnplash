@@ -1,0 +1,6 @@
+export const GET_IMAGES = 'GET_IMAGES'
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const CHANGE_SCREEN = 'CHANGE_SCREEN'
+export const CLEAR_ERROR = 'CLEAR_ERROR'
+export const SET_ERROR = 'CLEAR_ERROR'
